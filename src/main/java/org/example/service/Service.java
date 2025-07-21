@@ -2,7 +2,7 @@ package org.example.service;
 
 import org.example.model.Product;
 import org.example.model.ProductDTOInput;
-Simport org.example.repository.ProductRepository;
+import org.example.repository.ProductRepository;
 
 import java.io.IOException;
 import java.math.BigDecimal;
